@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #F4372B;
+}
+
+h1{
+    font-weight: bold;
+    background: #FFFFFF;
+
+    font-family: 'Roboto Condensed';
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
